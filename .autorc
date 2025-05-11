@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Yurymur",
+  "repo": "container-onlw0z8",
+  "name": "Yurymur",
+  "email": "yury_murashka@mail.ru",
+}
